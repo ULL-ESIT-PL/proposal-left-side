@@ -1,6 +1,6 @@
 # Function expressions on the left side of assignments
 
-Provides standard objects and functions for working with dates and times.
+Provides assignable functions that are curried and can be partially modified like in `f(2) = 3`
 
 ## Status
 
