@@ -4,7 +4,7 @@ Provides assignable functions that are curried and can be partially modified lik
 
 ## Status
 
-This proposal is currently an  internal draft of the authors. 
+This proposal is currently an  internal draft. 
 
 ## Contributors 
 
