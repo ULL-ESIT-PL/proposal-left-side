@@ -10,9 +10,9 @@ This proposal is currently an  internal draft.
 
 There are no champions at this time. People involved:
 
-- Pablo Santana González ([@pipobscure](https://github.com/pipobscure))
+- Pablo Santana González 
 - Adrián Mora Rodríguez
-- Casiano Rodríguez León ([@crguezl](https://github.com/crguezl)
+- Casiano Rodríguez León ([@crguezl](https://github.com/crguezl))
 - Coromoto León Hernández
 
 ## Overview / Motivation
