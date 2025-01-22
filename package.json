@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "proposal-temporal",
+  "name": "proposal-left-side",
   "version": "1.0.0",
-  "description": "Provides standard objects and functions for working with dates and times.",
+  "description": "Provides function objects that can be used in the left-hand side of an assignment",
   "engines": {
     "node": ">=12.16.0"
   },
@@ -41,9 +41,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tc39/proposal-temporal.git"
+    "url": "git+https:@github.com:ULL-ESIT-PL/proposal-left-side.git"
   },
-  "author": "Ujjwal Sharma <usharma@igalia.com>",
+  "author": "crguezl <crguezl@ull.edu.es>",
   "license": "BSD-3-Clause",
   "prettier": {
     "printWidth": 120,
