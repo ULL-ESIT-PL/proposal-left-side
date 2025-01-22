@@ -13,7 +13,7 @@ There are no champions at this time. People involved:
 - Pablo Santana González 
 - Adrián Mora Rodríguez
 - Casiano Rodríguez León ([@crguezl](https://github.com/crguezl))
-- Coromoto León Hernández
+- Coromoto León Hernández ([@coromoto](http://github.com/coromoto)
 
 ## Overview / Motivation
 
