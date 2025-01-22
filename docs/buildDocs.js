@@ -134,7 +134,7 @@ async function go() {
     const tail = await fs.readFile('tail.html.part', { encoding });
 
     // read files and return content with sub dir structure
-    const basePaths = ['.', './ja', './zh_CN'];
+    const basePaths = ['.' ];
     const files = await Promise.all(
       basePaths.map(async (base) => {
         return (await fs.readdir(base)).map((file) => ({
@@ -172,8 +172,6 @@ async function go() {
     await Promise.all(
       [
         ['../out/docs/README.html', '../out/docs/index.html'],
-        ['../out/docs/ja/README.html', '../out/docs/ja/index.html'],
-        ['../out/docs/zh_CN/README.html', '../out/docs/zh_CN/index.html'],
         ['node_modules/prismjs/themes/prism.css', '../out/docs/prism.css']
       ].map(([file1, file2]) => {
         return fs.copyFile(path.resolve(file1), path.resolve(file2));
